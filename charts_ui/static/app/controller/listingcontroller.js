@@ -64,47 +64,4 @@ angular.module('listingController',[])
 
     }
 
-//    $scope.results = []
-//
-//    $scope.sex = ["male","female"];
-//    $scope.race = ["White","Black","Asian-Pac-Islander","Amer-Indian-Eskimo","other"];
-//    $scope.relationship = ["Husband","Not-in-family","Wife","Own-child"];
-
-//    $scope.filterObject = {
-//
-//    	race: null,
-//    	relationship: null,
-//    	sex: null,
-//
-//    }
-//
-//
-////    scope.reset = function(){
-//        scope.results = []
-//        scope.fresh = true;
-//        scope.filterObject = {
-//
-//           race: null,
-//    	   relationship: null,
-//    	   sex: null,
-//
-//        }
-//    }
-//
-//    $scope.getRecords = function(){
-//        scope.results = [];
-//    	var success = function(response){
-//            scope.results = response.data;
-//    	}
-//
-//    	var failure = function(error){
-//
-//    		console.log(error)
-
-//    	}
-
-//    filterService.getRecords(success, failure, scope.filterObject)
-
-//    }
-
 }]);
