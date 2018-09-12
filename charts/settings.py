@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'charts.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'charts_db',
-        'USER': 'survaider',
-        'PASSWORD': 'admin123',
-        'HOST': 'localhost',
+        'NAME': 'darbop4idvnntg',
+        'USER': 'ficctnunsnrnyk',
+        'PASSWORD': 'e5c5aeb203ce1e656e780393318e5f2870f6f604d7a6198ae081466288429976',
+        'HOST': 'ec2-50-17-194-186.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
