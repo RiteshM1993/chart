@@ -1,6 +1,6 @@
 angular.module('chartsCtrl', [])
 
-.controller('chartsCtrl', function(en       ) {
+.controller('chartsCtrl', function($http) {
   var vt = this;
 
   var ctx = document.getElementById("graph1").getContext('2d');
